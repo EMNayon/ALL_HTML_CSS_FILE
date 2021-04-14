@@ -22,11 +22,11 @@
                         </tr>
                         <tr>
                             <td>Name </td>
-                            <td><input type="text" name="name" id=""></td>
+                            <td><input type="text" name="name" id="" required = "1"></td>
                         </tr>
                         <tr>
                             <td>E-mail </td>
-                            <td><input type="text" name="email" id=""></td>
+                            <td><input type="text" name="email" id="" required = "1"></td>
                         </tr>
                         <tr>
                             <td>Website </td>
