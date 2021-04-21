@@ -1,0 +1,11 @@
+This php filters is used to validate and filter data coming from insecure sources. like user input. 
+
+PHP Filter Functions :
+
+1. filter_has_var() : Checks whether a variable of a specified input type exist
+2. filter_id() : Returns the filter ID of a specified filter name. 
+3. flter_input() : Gets an external variable and optionally filters it. 
+4. filter_input_array() : Gets external variables and optionally filters them.
+5. filter_list() : Returns a list of all supported filter names. 
+6. filter_var() : Filters a variable with a specified filter.
+7. filter_var_array() : Gets multiple variables and filter them.
